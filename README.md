@@ -4,6 +4,8 @@
 
 You can use it to ensure node versions on projects
 
+As nvm, grunt-nvm works only on unix systems
+
 ## Install
 
 ```sh
@@ -39,6 +41,8 @@ grunt.registerTask('myTask', [/*nvm:use ensures version*/'nvm:use:0.12' /*,some 
 ```sh
 $ grunt myTask
 ```
+
+## More examples
 
 You can also use it to install node versions or use any other nvm command
 
