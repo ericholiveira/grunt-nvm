@@ -1,12 +1,14 @@
 {
   "name": "grunt-nvm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grunt task for executing nvm commands",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericholiveira/grunt-nvm.git"
+  },
+  "readmeFilename": "README.md",
   "engines": {
     "node": ">=0.8.0"
-  },
-  "scripts": {
-    "test": "node test/test.js"
   },
   "peerDependencies": {
     "grunt": "~0.4"
@@ -16,6 +18,9 @@
     "nvm",
     "gruntplugin"
   ],
-  "author": "ericholiveira",
+  "author": {
+    "name": "Erich Oliveira",
+    "url": "http://ericholiveira.com"
+  },
   "license": "MIT"
 }
