@@ -1,6 +1,6 @@
 {
   "name": "grunt-nvm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Grunt task for executing nvm commands",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "engines": {
     "node": ">=0.8.0"
   },
-  "devDependencies":{
+  "devDependencies": {
     "grunt": "~0.4",
     "grunt-release": "0.7.0"
   },
