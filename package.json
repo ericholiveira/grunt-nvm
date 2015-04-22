@@ -1,0 +1,21 @@
+{
+  "name": "grunt-nvm",
+  "version": "0.0.1",
+  "description": "Grunt task for executing nvm commands",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4"
+  },
+  "keywords": [
+    "grunt",
+    "nvm",
+    "gruntplugin"
+  ],
+  "author": "ericholiveira",
+  "license": "MIT"
+}
