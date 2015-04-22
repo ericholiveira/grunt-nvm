@@ -13,6 +13,9 @@
   "peerDependencies": {
     "grunt": "~0.4"
   },
+  "devDependecies":{
+    "grunt-release": "0.7.0"
+  },
   "keywords": [
     "grunt",
     "nvm",
