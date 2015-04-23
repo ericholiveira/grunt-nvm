@@ -9,6 +9,14 @@ As nvm, grunt-nvm works only on unix systems
 
 ## Install
 
+First install nvm (global)
+
+```sh
+$ npm install -g nvm
+```
+
+Then install grunt-nvm
+
 ```sh
 $ npm install grunt-nvm --save-dev
 ```
