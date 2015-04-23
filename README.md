@@ -1,10 +1,11 @@
-# grunt-nvm
+# grunt-nvm      [![npm version](https://badge.fury.io/js/grunt-nvm.svg)](http://badge.fury.io/js/grunt-nvm)
 
 > Run any nvm commands
 
 You can use it to ensure node versions on projects
 
 As nvm, grunt-nvm works only on unix systems
+
 
 ## Install
 
@@ -62,3 +63,5 @@ $ grunt nvm:use:0.10
 ```sh
 $ grunt nvm:exec:0.12:node:app.js
 ```
+
+[![NPM](https://nodei.co/npm/grunt-nvm.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/grunt-nvm/)
