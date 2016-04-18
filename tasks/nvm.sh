@@ -1,3 +1,3 @@
 #!/bin/sh
-. ~/.nvm/nvm.sh
+. $NVM_DIR/nvm.sh
 nvm "$@"
